@@ -1,0 +1,6 @@
+source 'http://rubygems.org'
+
+gem 'nome_gem'
+gem 'nome_gem2'
+
+# Para executar o Bundler deve-se acessar o diretorio onde esta o arquivo Gemfile e executar o comando bundle ou bundle install
